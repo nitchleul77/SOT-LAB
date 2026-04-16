@@ -1,6 +1,6 @@
 // ========== GROQ CONFIGURATION ==========
 // 🔑 REPLACE WITH YOUR GROQ API KEY (if needed)
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 const GROQ_MODEL = "llama-3.1-8b-instant"; // Fast, free model
 
 // PDF.js worker
